@@ -1,6 +1,7 @@
 
 public class test {
     static String Example() {
+        int y;
         boolean x;
         if (x = false) {
             String t = "Выберите другое имя пользователся";
